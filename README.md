@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js and TypeScript**
 - 👯 I’m looking to collaborate on **exciting frontend projects**
-- 📝 I regularly write articles on [Your Blog (optional)](your-blog-link)
+- 📝 I regularly write articles on [Your Blog (optional)](https://kenny-lamra.github.io)
 - ⚡ Fun fact: I love designing interfaces and drinking way too much coffee ☕  
 
 ---
@@ -27,9 +27,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kenny-lamra&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenny-lamra&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -37,15 +37,15 @@
 ## 📈 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile+views&color=0e75b6&style=flat" alt="your-github-username" />
+  <img src="https://komarev.com/ghpvc/?username=kenny-lamra&label=Profile+views&color=0e75b6&style=flat" alt="kenny-lamra" />
 </p>
 
 ---
 
 ## ✨ Featured Projects
 
-- 🎨 **[Awesome Portfolio Website](your-project-link)** — built with React, Tailwind, and Framer Motion.
-- 📱 **[Task Management APP](your-project-link)** — a progressive web app for managing daily tasks.
+- 🎨 **[Awesome Portfolio Website]([https://kenny-lamra.github.io])** — built with React, Tailwind, and Framer Motion.
+- 📱 **[Task Management APP]([https://github.com/kenny-lamra/task_management_app])** — a progressive web app for managing daily tasks.
 
 ---
 
