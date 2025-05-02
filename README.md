@@ -44,8 +44,8 @@
 
 ## ✨ Featured Projects
 
-- 🎨 **[Awesome Portfolio Website]([https://kenny-lamra.github.io])** — built with React, Tailwind, and Framer Motion.
-- 📱 **[Task Management APP]([https://github.com/kenny-lamra/task_management_app])** — a progressive web app for managing daily tasks.
+- 🎨 **[Awesome Portfolio Website](https://kenny-lamra.github.io)** — built with React, Tailwind, and Framer Motion.
+- 📱 **[Task Management APP](https://github.com/kenny-lamra/task_management_app)** — a progressive web app for managing daily tasks.
 
 ---
 
