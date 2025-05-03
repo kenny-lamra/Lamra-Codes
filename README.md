@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jesufemi Akinyefa</h1>
+<h1 align="center">Hi 👋, I'm JesuFemi Akinyefa</h1>
 <h3 align="center">A passionate Frontend Developer from Nigeria, Lagos</h3>
 
 <p align="center">
